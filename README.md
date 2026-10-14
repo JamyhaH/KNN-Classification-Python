@@ -44,6 +44,8 @@ The dataset contains 541 observations and 27 input features.
 | Class 1 | 0 | 24 | 1 |
 | Class 2 | 1 | 1 | 56 |
 
+![KNN Confusion Matrix (k=5)](Confusion_Matrix.png)
+
 ## Key Findings
 - KNN with k = 3 achieved 97.25% testing accuracy.
 - KNN with k = 5 achieved 96.33% testing accuracy.
